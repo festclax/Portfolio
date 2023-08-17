@@ -1,1 +1,7 @@
-
+title: Festus Aigbedion # Your name (or website title) here
+#logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Making meaning out of numbers and painting stories with graphics 
+  <br><br>
+  Second description 
+theme: jekyll-theme-minimal
