@@ -13,4 +13,11 @@ Credit Analyst - First City Monument Bank, Lagos	        (2008 – 2011)
 
 
 ## Projects
+## Number Of Internally Displaced Persons In North East Nigeria
+![](/Images/nick-brunner-5dgXQJ7ezuU-unsplash.jpg)
+This project was carried out to help NGOs know states and local governments to focus on as regards helping IDPs with relief materials.
+The data set used for this analysis was gotten from the webpage of Humanitarian Data Exchange. 
+The analysis has a lot of revelations. It shows the number of females in the different camps and the number of males. 
+The data set also include age distribution, but the analysis was just restricted to states, local governments, and gender of IDPs.
 Multidimensional Poverty Index (MPI) in Nothern Nigeria
+![](/Images/jordan-opel-3VLHF9b9Plg-unsplash.jpg)
