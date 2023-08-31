@@ -1,12 +1,7 @@
 title: Festus Aigbedion # Your name (or website title) here
-#logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: /images/mypics # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Making meaning out of numbers and painting stories with graphics is my passion.
   I see things mostly from a data point of view.
-  I hold a Bachelors degree in Applied Statistics with strong passion for analysis.
-  <b><b>
-  I am here to help you make hidden truth visible.
-
-  
-  
+  I hold a Bachelors degree in Applied Statistics with strong passion for analysis.  
 theme: jekyll-theme-minimal
