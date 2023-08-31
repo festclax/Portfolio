@@ -1,5 +1,5 @@
 title: Festus Aigbedion # Your name (or website title) here
-logo: ![alt text here](mypics.jpg) # your photo (or logo) here
+logo: "/images/mypics.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Making meaning out of numbers and painting stories with graphics is my passion.
   I see things mostly from a data point of view.
