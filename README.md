@@ -14,6 +14,7 @@ Credit Analyst - First City Monument Bank, Lagos	        (2008 – 2011)
 
 ## Projects
 ## Number Of Internally Displaced Persons In North East Nigeria
+[Publicatiob](/Excel/Data Analytics Project 1.pptx)
 ![](/Images/nick-brunner-5dgXQJ7ezuU-unsplash.jpg)
 This project was carried out to help NGOs know states and local governments to focus on as regards helping IDPs with relief materials.
 The data set used for this analysis was gotten from the webpage of Humanitarian Data Exchange. 
